@@ -1,0 +1,15 @@
+streamlit
+numpy
+requests
+torch
+torchvision
+torchaudio
+faiss-cpu
+Pillow
+tensorflow
+opencv-python
+transformers
+gTTS
+EOF
+
+

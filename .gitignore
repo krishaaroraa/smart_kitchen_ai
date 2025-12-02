@@ -1,0 +1,52 @@
+# Creating gitignore...
+# -----------------------------
+# Python / Streamlit Project
+# Smart Kitchen AI Repository
+# -----------------------------
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TensorFlow / Keras / PyTorch Model Files
+*.h5
+*.hdf5
+*.pb
+*.pt
+*.pth
+*.onnx
+
+# Streamlit config & cache
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Audio/Video generated files
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.avi
+
+# Image cache or temporary assets
+*.tmp
+
+# Local environment variables
+.env
+*.env
